@@ -1,0 +1,15 @@
+C:\Users\SEM\Documents\onur\avarage\bin\Debug\net6.0\avarage.exe
+C:\Users\SEM\Documents\onur\avarage\bin\Debug\net6.0\avarage.deps.json
+C:\Users\SEM\Documents\onur\avarage\bin\Debug\net6.0\avarage.runtimeconfig.json
+C:\Users\SEM\Documents\onur\avarage\bin\Debug\net6.0\avarage.dll
+C:\Users\SEM\Documents\onur\avarage\bin\Debug\net6.0\avarage.pdb
+C:\Users\SEM\Documents\onur\avarage\obj\Debug\net6.0\avarage.csproj.AssemblyReference.cache
+C:\Users\SEM\Documents\onur\avarage\obj\Debug\net6.0\avarage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEM\Documents\onur\avarage\obj\Debug\net6.0\avarage.AssemblyInfoInputs.cache
+C:\Users\SEM\Documents\onur\avarage\obj\Debug\net6.0\avarage.AssemblyInfo.cs
+C:\Users\SEM\Documents\onur\avarage\obj\Debug\net6.0\avarage.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Documents\onur\avarage\obj\Debug\net6.0\avarage.dll
+C:\Users\SEM\Documents\onur\avarage\obj\Debug\net6.0\refint\avarage.dll
+C:\Users\SEM\Documents\onur\avarage\obj\Debug\net6.0\avarage.pdb
+C:\Users\SEM\Documents\onur\avarage\obj\Debug\net6.0\avarage.genruntimeconfig.cache
+C:\Users\SEM\Documents\onur\avarage\obj\Debug\net6.0\ref\avarage.dll

@@ -1,0 +1,15 @@
+C:\Users\SEM\Documents\onur\perfectNumber\bin\Debug\net6.0\perfectNumber.exe
+C:\Users\SEM\Documents\onur\perfectNumber\bin\Debug\net6.0\perfectNumber.deps.json
+C:\Users\SEM\Documents\onur\perfectNumber\bin\Debug\net6.0\perfectNumber.runtimeconfig.json
+C:\Users\SEM\Documents\onur\perfectNumber\bin\Debug\net6.0\perfectNumber.dll
+C:\Users\SEM\Documents\onur\perfectNumber\bin\Debug\net6.0\perfectNumber.pdb
+C:\Users\SEM\Documents\onur\perfectNumber\obj\Debug\net6.0\perfectNumber.csproj.AssemblyReference.cache
+C:\Users\SEM\Documents\onur\perfectNumber\obj\Debug\net6.0\perfectNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEM\Documents\onur\perfectNumber\obj\Debug\net6.0\perfectNumber.AssemblyInfoInputs.cache
+C:\Users\SEM\Documents\onur\perfectNumber\obj\Debug\net6.0\perfectNumber.AssemblyInfo.cs
+C:\Users\SEM\Documents\onur\perfectNumber\obj\Debug\net6.0\perfectNumber.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Documents\onur\perfectNumber\obj\Debug\net6.0\perfectNumber.dll
+C:\Users\SEM\Documents\onur\perfectNumber\obj\Debug\net6.0\refint\perfectNumber.dll
+C:\Users\SEM\Documents\onur\perfectNumber\obj\Debug\net6.0\perfectNumber.pdb
+C:\Users\SEM\Documents\onur\perfectNumber\obj\Debug\net6.0\perfectNumber.genruntimeconfig.cache
+C:\Users\SEM\Documents\onur\perfectNumber\obj\Debug\net6.0\ref\perfectNumber.dll
