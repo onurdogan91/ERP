@@ -1,0 +1,15 @@
+C:\Users\SEM\Documents\onur\kareUcgenDaire\bin\Debug\net6.0\kareUcgenDaire.exe
+C:\Users\SEM\Documents\onur\kareUcgenDaire\bin\Debug\net6.0\kareUcgenDaire.deps.json
+C:\Users\SEM\Documents\onur\kareUcgenDaire\bin\Debug\net6.0\kareUcgenDaire.runtimeconfig.json
+C:\Users\SEM\Documents\onur\kareUcgenDaire\bin\Debug\net6.0\kareUcgenDaire.dll
+C:\Users\SEM\Documents\onur\kareUcgenDaire\bin\Debug\net6.0\kareUcgenDaire.pdb
+C:\Users\SEM\Documents\onur\kareUcgenDaire\obj\Debug\net6.0\kareUcgenDaire.csproj.AssemblyReference.cache
+C:\Users\SEM\Documents\onur\kareUcgenDaire\obj\Debug\net6.0\kareUcgenDaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEM\Documents\onur\kareUcgenDaire\obj\Debug\net6.0\kareUcgenDaire.AssemblyInfoInputs.cache
+C:\Users\SEM\Documents\onur\kareUcgenDaire\obj\Debug\net6.0\kareUcgenDaire.AssemblyInfo.cs
+C:\Users\SEM\Documents\onur\kareUcgenDaire\obj\Debug\net6.0\kareUcgenDaire.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Documents\onur\kareUcgenDaire\obj\Debug\net6.0\kareUcgenDaire.dll
+C:\Users\SEM\Documents\onur\kareUcgenDaire\obj\Debug\net6.0\refint\kareUcgenDaire.dll
+C:\Users\SEM\Documents\onur\kareUcgenDaire\obj\Debug\net6.0\kareUcgenDaire.pdb
+C:\Users\SEM\Documents\onur\kareUcgenDaire\obj\Debug\net6.0\kareUcgenDaire.genruntimeconfig.cache
+C:\Users\SEM\Documents\onur\kareUcgenDaire\obj\Debug\net6.0\ref\kareUcgenDaire.dll

@@ -1,0 +1,15 @@
+C:\Users\SEM\Documents\onur\Lesson 160922\bin\Debug\net6.0\Lesson 160922.exe
+C:\Users\SEM\Documents\onur\Lesson 160922\bin\Debug\net6.0\Lesson 160922.deps.json
+C:\Users\SEM\Documents\onur\Lesson 160922\bin\Debug\net6.0\Lesson 160922.runtimeconfig.json
+C:\Users\SEM\Documents\onur\Lesson 160922\bin\Debug\net6.0\Lesson 160922.dll
+C:\Users\SEM\Documents\onur\Lesson 160922\bin\Debug\net6.0\Lesson 160922.pdb
+C:\Users\SEM\Documents\onur\Lesson 160922\obj\Debug\net6.0\Lesson 160922.csproj.AssemblyReference.cache
+C:\Users\SEM\Documents\onur\Lesson 160922\obj\Debug\net6.0\Lesson 160922.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEM\Documents\onur\Lesson 160922\obj\Debug\net6.0\Lesson 160922.AssemblyInfoInputs.cache
+C:\Users\SEM\Documents\onur\Lesson 160922\obj\Debug\net6.0\Lesson 160922.AssemblyInfo.cs
+C:\Users\SEM\Documents\onur\Lesson 160922\obj\Debug\net6.0\Lesson 160922.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Documents\onur\Lesson 160922\obj\Debug\net6.0\Lesson 160922.dll
+C:\Users\SEM\Documents\onur\Lesson 160922\obj\Debug\net6.0\refint\Lesson 160922.dll
+C:\Users\SEM\Documents\onur\Lesson 160922\obj\Debug\net6.0\Lesson 160922.pdb
+C:\Users\SEM\Documents\onur\Lesson 160922\obj\Debug\net6.0\Lesson 160922.genruntimeconfig.cache
+C:\Users\SEM\Documents\onur\Lesson 160922\obj\Debug\net6.0\ref\Lesson 160922.dll

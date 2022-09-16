@@ -1,0 +1,15 @@
+C:\Users\SEM\Documents\onur\romaliAsker\bin\Debug\net6.0\romaliAsker.exe
+C:\Users\SEM\Documents\onur\romaliAsker\bin\Debug\net6.0\romaliAsker.deps.json
+C:\Users\SEM\Documents\onur\romaliAsker\bin\Debug\net6.0\romaliAsker.runtimeconfig.json
+C:\Users\SEM\Documents\onur\romaliAsker\bin\Debug\net6.0\romaliAsker.dll
+C:\Users\SEM\Documents\onur\romaliAsker\bin\Debug\net6.0\romaliAsker.pdb
+C:\Users\SEM\Documents\onur\romaliAsker\obj\Debug\net6.0\romaliAsker.csproj.AssemblyReference.cache
+C:\Users\SEM\Documents\onur\romaliAsker\obj\Debug\net6.0\romaliAsker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEM\Documents\onur\romaliAsker\obj\Debug\net6.0\romaliAsker.AssemblyInfoInputs.cache
+C:\Users\SEM\Documents\onur\romaliAsker\obj\Debug\net6.0\romaliAsker.AssemblyInfo.cs
+C:\Users\SEM\Documents\onur\romaliAsker\obj\Debug\net6.0\romaliAsker.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Documents\onur\romaliAsker\obj\Debug\net6.0\romaliAsker.dll
+C:\Users\SEM\Documents\onur\romaliAsker\obj\Debug\net6.0\refint\romaliAsker.dll
+C:\Users\SEM\Documents\onur\romaliAsker\obj\Debug\net6.0\romaliAsker.pdb
+C:\Users\SEM\Documents\onur\romaliAsker\obj\Debug\net6.0\romaliAsker.genruntimeconfig.cache
+C:\Users\SEM\Documents\onur\romaliAsker\obj\Debug\net6.0\ref\romaliAsker.dll

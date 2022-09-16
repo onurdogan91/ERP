@@ -125,7 +125,7 @@ namespace Lesson_150922
             {
                 Console.WriteLine(giris[i]);
             }
-
+              
         }
     }
 }
