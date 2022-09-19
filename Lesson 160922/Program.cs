@@ -1,4 +1,8 @@
 ﻿using System.Security.Claims;
+using System.Data.SqlTypes;
+using System.Dynamic;
+using System.Xml.Linq;
+using System.Security.AccessControl;
 
 namespace Lesson_160922
 {
@@ -96,6 +100,7 @@ namespace Lesson_160922
             }
             */
 
+            /*
             int i = 10;
 
             while (i>0)
@@ -105,8 +110,17 @@ namespace Lesson_160922
                 {
                     continue;
                 }
-                Console.WriteLine(i);                
+                Console.WriteLine(i);  
             }
+            */
+
+
+            string isKod;
+            int s1 = 0;
+            int s2 = 0;
+           
+
+
         }
     }
 }
