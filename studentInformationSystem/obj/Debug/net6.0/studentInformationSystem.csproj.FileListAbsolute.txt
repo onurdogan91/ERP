@@ -1,0 +1,15 @@
+C:\Users\SEM\Documents\onur\studentInformationSystem\bin\Debug\net6.0\studentInformationSystem.exe
+C:\Users\SEM\Documents\onur\studentInformationSystem\bin\Debug\net6.0\studentInformationSystem.deps.json
+C:\Users\SEM\Documents\onur\studentInformationSystem\bin\Debug\net6.0\studentInformationSystem.runtimeconfig.json
+C:\Users\SEM\Documents\onur\studentInformationSystem\bin\Debug\net6.0\studentInformationSystem.dll
+C:\Users\SEM\Documents\onur\studentInformationSystem\bin\Debug\net6.0\studentInformationSystem.pdb
+C:\Users\SEM\Documents\onur\studentInformationSystem\obj\Debug\net6.0\studentInformationSystem.csproj.AssemblyReference.cache
+C:\Users\SEM\Documents\onur\studentInformationSystem\obj\Debug\net6.0\studentInformationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEM\Documents\onur\studentInformationSystem\obj\Debug\net6.0\studentInformationSystem.AssemblyInfoInputs.cache
+C:\Users\SEM\Documents\onur\studentInformationSystem\obj\Debug\net6.0\studentInformationSystem.AssemblyInfo.cs
+C:\Users\SEM\Documents\onur\studentInformationSystem\obj\Debug\net6.0\studentInformationSystem.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Documents\onur\studentInformationSystem\obj\Debug\net6.0\studentInformationSystem.dll
+C:\Users\SEM\Documents\onur\studentInformationSystem\obj\Debug\net6.0\refint\studentInformationSystem.dll
+C:\Users\SEM\Documents\onur\studentInformationSystem\obj\Debug\net6.0\studentInformationSystem.pdb
+C:\Users\SEM\Documents\onur\studentInformationSystem\obj\Debug\net6.0\studentInformationSystem.genruntimeconfig.cache
+C:\Users\SEM\Documents\onur\studentInformationSystem\obj\Debug\net6.0\ref\studentInformationSystem.dll
