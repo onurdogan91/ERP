@@ -8,6 +8,12 @@ namespace _190922
 {
     public class Animal
     {
+        public Animal()
+        {
+            weight = -1;
+            name = "undefined";
+            gender = 2;
+        }
         public int weight;
         public string name;
         public int gender;

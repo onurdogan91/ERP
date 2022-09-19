@@ -15,6 +15,10 @@
             bird.weight = 1;
             bird.gender = 1;
             Console.WriteLine(bird.GetAnimalProperties());
+
+            Animal dog = new Animal();
+            dog.name = ("Karabas");
+            Console.WriteLine(dog.GetAnimalProperties());
         }
     }
 }
