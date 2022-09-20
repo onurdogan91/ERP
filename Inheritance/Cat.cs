@@ -17,5 +17,15 @@ namespace Inheritance
             return animalProperties + " " + catProperties;
         }
 
+        public override void Move()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override void Sleep()
+        {
+            //base.Sleep();
+            energy += 2;
+        }
     }
 }

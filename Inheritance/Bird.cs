@@ -17,5 +17,10 @@ namespace Inheritance
             string birdProperties = String.Format("FlySpeed:{0} FlyDistance:{1}", flySpeed, flyDistance);
             return animalProperties + " " + birdProperties;
         }
+
+        public override void Move()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
