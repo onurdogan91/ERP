@@ -1,0 +1,15 @@
+C:\Users\SEM\Documents\onur\Bankamatik\bin\Debug\net6.0\Bankamatik.exe
+C:\Users\SEM\Documents\onur\Bankamatik\bin\Debug\net6.0\Bankamatik.deps.json
+C:\Users\SEM\Documents\onur\Bankamatik\bin\Debug\net6.0\Bankamatik.runtimeconfig.json
+C:\Users\SEM\Documents\onur\Bankamatik\bin\Debug\net6.0\Bankamatik.dll
+C:\Users\SEM\Documents\onur\Bankamatik\bin\Debug\net6.0\Bankamatik.pdb
+C:\Users\SEM\Documents\onur\Bankamatik\obj\Debug\net6.0\Bankamatik.csproj.AssemblyReference.cache
+C:\Users\SEM\Documents\onur\Bankamatik\obj\Debug\net6.0\Bankamatik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEM\Documents\onur\Bankamatik\obj\Debug\net6.0\Bankamatik.AssemblyInfoInputs.cache
+C:\Users\SEM\Documents\onur\Bankamatik\obj\Debug\net6.0\Bankamatik.AssemblyInfo.cs
+C:\Users\SEM\Documents\onur\Bankamatik\obj\Debug\net6.0\Bankamatik.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Documents\onur\Bankamatik\obj\Debug\net6.0\Bankamatik.dll
+C:\Users\SEM\Documents\onur\Bankamatik\obj\Debug\net6.0\refint\Bankamatik.dll
+C:\Users\SEM\Documents\onur\Bankamatik\obj\Debug\net6.0\Bankamatik.pdb
+C:\Users\SEM\Documents\onur\Bankamatik\obj\Debug\net6.0\Bankamatik.genruntimeconfig.cache
+C:\Users\SEM\Documents\onur\Bankamatik\obj\Debug\net6.0\ref\Bankamatik.dll
