@@ -34,7 +34,7 @@ namespace Bankamatik
                     case 1:
                         {
                             Console.WriteLine("Çekmek istediğiniz tutarı giriniz :");
-                            Account.account();
+                            Account.withdraw();
                             y = 1;
                             break;
                         }

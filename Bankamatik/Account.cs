@@ -6,24 +6,25 @@ using System.Threading.Tasks;
 
 namespace Bankamatik
 {
-    public class Account
-    {                              
-        public static void account()
+    public class Account : Program
+    {
+        
+        public static void withdraw()
         {
-            int balance = 10000;
+            Program program = new Program();
             int i = 0;
             do
             {                
                 int withdraw = 0;
                 withdraw = Convert.ToInt32(Console.ReadLine());
 
-                if (withdraw <= balance)
+                if (withdraw <= program.balance )
                 {
-                    balance -= withdraw;
-                    Console.WriteLine("Güncel Bakiyeniz : " + balance);
+                    program.balance -= withdraw;
+                    Console.WriteLine("Güncel Bakiyeniz : " + program.balance);
                     i = 1 ;
                 }
-                else if(balance < withdraw)
+                else if(program.balance < withdraw)
                 {
                     Console.WriteLine("Bakiyeniz Yetersiz!!!");
                     i = 1;
@@ -35,6 +36,11 @@ namespace Bankamatik
 
             } while (i == 0);
             
-        }        
+        }
+        
+        public static void investment()
+        {
+
+        }
     }
 }
