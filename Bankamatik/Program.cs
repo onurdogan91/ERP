@@ -7,12 +7,7 @@
             
             PasswordCheck.Password();
             Menu.menu();                        
-        }
-        
-            public int balance = 10000;
-
-        
-       
-
+        }        
+            public int balance = 10000;       
     }
 }

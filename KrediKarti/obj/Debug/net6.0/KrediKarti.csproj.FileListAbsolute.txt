@@ -1,0 +1,15 @@
+C:\Users\SEM\Documents\onur\KrediKarti\obj\Debug\net6.0\KrediKarti.csproj.AssemblyReference.cache
+C:\Users\SEM\Documents\onur\KrediKarti\obj\Debug\net6.0\KrediKarti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEM\Documents\onur\KrediKarti\obj\Debug\net6.0\KrediKarti.AssemblyInfoInputs.cache
+C:\Users\SEM\Documents\onur\KrediKarti\obj\Debug\net6.0\KrediKarti.AssemblyInfo.cs
+C:\Users\SEM\Documents\onur\KrediKarti\obj\Debug\net6.0\KrediKarti.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Documents\onur\KrediKarti\bin\Debug\net6.0\KrediKarti.exe
+C:\Users\SEM\Documents\onur\KrediKarti\bin\Debug\net6.0\KrediKarti.deps.json
+C:\Users\SEM\Documents\onur\KrediKarti\bin\Debug\net6.0\KrediKarti.runtimeconfig.json
+C:\Users\SEM\Documents\onur\KrediKarti\bin\Debug\net6.0\KrediKarti.dll
+C:\Users\SEM\Documents\onur\KrediKarti\bin\Debug\net6.0\KrediKarti.pdb
+C:\Users\SEM\Documents\onur\KrediKarti\obj\Debug\net6.0\KrediKarti.dll
+C:\Users\SEM\Documents\onur\KrediKarti\obj\Debug\net6.0\refint\KrediKarti.dll
+C:\Users\SEM\Documents\onur\KrediKarti\obj\Debug\net6.0\KrediKarti.pdb
+C:\Users\SEM\Documents\onur\KrediKarti\obj\Debug\net6.0\KrediKarti.genruntimeconfig.cache
+C:\Users\SEM\Documents\onur\KrediKarti\obj\Debug\net6.0\ref\KrediKarti.dll
