@@ -13,6 +13,8 @@ namespace Bankamatik
         {          
             int userPass = 123456;
             int userId = 987654;
+            int userPass1 = 987654;
+            int userId1 = 123456;
             int i = 0 ;
             do
             {
@@ -21,7 +23,7 @@ namespace Bankamatik
                 Console.WriteLine("Lütfen Şifrenizi Giriniz: ");
                 int password = Convert.ToInt32(Console.ReadLine());
 
-                if (password == userPass && userId == userName )
+                if ((password == userPass && userId == userName) || (password == userPass1 && userId1 == userName))
                 {
                     Console.WriteLine("Giriş Yapıldı...");
                     i = 3;                   

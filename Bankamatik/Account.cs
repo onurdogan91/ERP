@@ -40,7 +40,34 @@ namespace Bankamatik
         
         public static void investment()
         {
+            Program program = new Program();
+            int i = 0;
+            do
+            {
+                int withdraw = 0;
+                withdraw = Convert.ToInt32(Console.ReadLine());
+
+                if (withdraw <= program.balance)
+                {
+                    program.balance += withdraw;
+                    Console.WriteLine("Güncel Bakiyeniz : " + program.balance);
+                    i = 1;
+                }                
+                else
+                {
+                    i = 1;
+                }
+
+            } while (i == 0);
 
         }
+
+        public static void balance()
+        {
+            Program program = new Program();            
+            
+                    Console.WriteLine(program.balance);              
+        }
+
     }
 }

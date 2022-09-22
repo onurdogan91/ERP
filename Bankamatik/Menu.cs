@@ -41,12 +41,14 @@ namespace Bankamatik
                     case 2:
                         {
                             Console.WriteLine("Yatırmak istediğiniz tutarı giriniz :");
+                            Account.investment();
                             y = 1;
                             break;
                         }
                     case 3:
                         {
                             Console.WriteLine("Bakiyeniz : ");
+                            Account.balance();
                             y = 1;
                             break;
                         }
