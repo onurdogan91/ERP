@@ -1,0 +1,17 @@
+C:\Users\SEM\Documents\onur\OgrenciProje\obj\Debug\net6.0\OgrenciProje.csproj.AssemblyReference.cache
+C:\Users\SEM\Documents\onur\OgrenciProje\obj\Debug\net6.0\OgrenciProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEM\Documents\onur\OgrenciProje\obj\Debug\net6.0\OgrenciProje.AssemblyInfoInputs.cache
+C:\Users\SEM\Documents\onur\OgrenciProje\obj\Debug\net6.0\OgrenciProje.AssemblyInfo.cs
+C:\Users\SEM\Documents\onur\OgrenciProje\obj\Debug\net6.0\OgrenciProje.csproj.CoreCompileInputs.cache
+C:\Users\SEM\Documents\onur\OgrenciProje\bin\Debug\net6.0\OgrenciProje.exe
+C:\Users\SEM\Documents\onur\OgrenciProje\bin\Debug\net6.0\OgrenciProje.deps.json
+C:\Users\SEM\Documents\onur\OgrenciProje\bin\Debug\net6.0\OgrenciProje.runtimeconfig.json
+C:\Users\SEM\Documents\onur\OgrenciProje\bin\Debug\net6.0\OgrenciProje.dll
+C:\Users\SEM\Documents\onur\OgrenciProje\bin\Debug\net6.0\OgrenciProje.pdb
+C:\Users\SEM\Documents\onur\OgrenciProje\bin\Debug\net6.0\FakeData.dll
+C:\Users\SEM\Documents\onur\OgrenciProje\obj\Debug\net6.0\OgrenciProje.csproj.CopyComplete
+C:\Users\SEM\Documents\onur\OgrenciProje\obj\Debug\net6.0\OgrenciProje.dll
+C:\Users\SEM\Documents\onur\OgrenciProje\obj\Debug\net6.0\refint\OgrenciProje.dll
+C:\Users\SEM\Documents\onur\OgrenciProje\obj\Debug\net6.0\OgrenciProje.pdb
+C:\Users\SEM\Documents\onur\OgrenciProje\obj\Debug\net6.0\OgrenciProje.genruntimeconfig.cache
+C:\Users\SEM\Documents\onur\OgrenciProje\obj\Debug\net6.0\ref\OgrenciProje.dll
