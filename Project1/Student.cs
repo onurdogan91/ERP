@@ -11,9 +11,9 @@ namespace Project1
         public int Id { get; set; }
         public string Name { get; set; }
         public string Surname { get; set; }
-        public char Sex { get; set; }        
+        public char Gender { get; set; }        
         public DateTime BYear { get; set; }
-        public string street { get; set; }
+        public string Street { get; set; }
         public int DoorNo { get; set; }
         public string City { get; set; }
         public string District { get; set; }
@@ -21,7 +21,7 @@ namespace Project1
 
         public string GetTitle()
         {
-            if (Sex == 'M')
+            if (Gender == 'M')
             {
                 return "Mr " + Name + " " + Surname;
             }
@@ -46,7 +46,7 @@ namespace Project1
         public List<String> GetAdress()
         {
             List<String> adress = new List<String>();
-            adress.Add(street);
+            adress.Add(Street);
             adress.Add(DoorNo.ToString());            
             adress.Add(District + " / " + City);
             return adress;
@@ -54,12 +54,12 @@ namespace Project1
 
         public String GetAdress2()
         {
-            return $" Şehir {street}\n No {DoorNo}\n" + $" {District + City}";
+            return $" Şehir {Street}\n No {DoorNo}\n" + $" {District + City}";
         }
 
         public string[] GetAdress3()
         {
-            string[] adress = {street, DoorNo.ToString(), District, City};
+            string[] adress = {Street, DoorNo.ToString(), District, City};
             return adress;
         }
     }
