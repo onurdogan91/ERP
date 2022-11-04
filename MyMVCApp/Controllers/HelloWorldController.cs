@@ -1,17 +1,14 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MyMVCApp.Models;
+using System.Text.Encodings.Web;
 
 namespace MyMVCApp.Controllers
 {
     public class HelloWorldController : Controller
     {
         public IActionResult Index()
-        {
-          DogViewModel dog = new DogViewModel() { Name="Moli",Age=12};
-          CatViewModel cat = new CatViewModel() { Name = "Berk", Age = 10 };
-          AnimalViewModel animal = new AnimalViewModel(dog, cat);         
-
-            return View(animal);            
+        {              
+            return View();            
         }
 
         public IActionResult Create()
@@ -25,10 +22,13 @@ namespace MyMVCApp.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        
 
-        public IActionResult Hello()
+
+        public IActionResult Welcome(string name, int numTimes = 1)
         {
+            ViewData["Message"] = "Hello " + name;
+            ViewData["NumTimes"] = numTimes;
+
             return View();
         }
 
